@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatima031 
 - 👀 I’m interested in Development (FullStck Development)
-- 🌱 I’m currently learning ... Flutter / java
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently Working On Flutter 
+- 💞️ I’m looking to collaborate on ... My Persnol SoftWare
 - 📫 How to reach me ... fatima031 or email address is fatimakhanani28@gmail.com
 
 <!---
