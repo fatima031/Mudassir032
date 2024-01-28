@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mudassir69 
+- 👋 Hi, I’m @fatima_khanani031
 - 👀 I’m interested in Development (FullStck Development)
 - 🌱 I’m currently Working On Flutter 
 - 💞️ I’m looking to collaborate on ... My Persnol SoftWare
